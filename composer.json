@@ -1,0 +1,12 @@
+{
+    "name": "ahmedsayedsk/bmi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed sk",
+            "email": "ahmedsk128@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
